@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-TriArmy-0.1.0";
 const contentToCache = [
-    "Build/WEBAPPTriArmy.loader.js",
-    "Build/WEBAPPTriArmy.framework.js",
-    "Build/WEBAPPTriArmy.data",
-    "Build/WEBAPPTriArmy.wasm",
+    "Build/Triarmy.loader.js",
+    "Build/Triarmy.framework.js",
+    "Build/Triarmy.data",
+    "Build/Triarmy.wasm",
     "TemplateData/style.css"
 
 ];
