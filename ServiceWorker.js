@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-TriArmy-0.1.7";
+const cacheName = "DefaultCompany-TriArmy-0.1.8";
 const contentToCache = [
     "Build/Triarmy.loader.js",
     "Build/Triarmy.framework.js",
